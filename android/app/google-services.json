@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "29925840745",
+    "project_id": "anyfest-d504a",
+    "storage_bucket": "anyfest-d504a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29925840745:android:ad544b88798928468f4ff8",
+        "android_client_info": {
+          "package_name": "com.example.anyfest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29925840745-3rlacukl8276r0buk2dj9306mjr3f7e5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anyfest",
+            "certificate_hash": "01aa2c85d9b8cf033ffdbe04af8664db35e3a39d"
+          }
+        },
+        {
+          "client_id": "29925840745-v5sf4ac2oe2eokgi4etr4c3n0dr1295r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO3UD9IpOkU_75po5crPh6Pswqo738LsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29925840745-v5sf4ac2oe2eokgi4etr4c3n0dr1295r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
